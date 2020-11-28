@@ -1,2 +1,1 @@
-# Churn-Prediction
-Churn prediction is one of the most popular Big Data use cases in business. It consists of detecting which customers are likely to cancel a subscription to a service based on how they use the service. We want to predict the answer to the following question, asked for each current customer: “Is this customer going to leave us within the next X months?” There are only two possible answers, yes or no, and it is what we call a binary classification task.  Here, the input to the model is customer profile information and the objective is to predict whether a customer is likely to cancel their service subscription  Being able to predict churn based on customer data has proven extremely valuable to big telecom companies &amp; Financial services.
+
